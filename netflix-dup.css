@@ -186,8 +186,21 @@ a {
     margin-bottom: 2%;
     margin-top: 5%;
 }
+.page-end-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page-end a{
+    font-size: 30px;
+    padding-right: 20px;
+}
 
+/* hr {
+    border-top: 1px solid red,
+  } */
 #unkown {
+    padding-right: 30px;
     color: red;
 }
 
